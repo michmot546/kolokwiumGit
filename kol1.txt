@@ -1,2 +1,4 @@
 dodano plik kol1txt
 Zmiana punkt 10
+Zmiana galaz 1
+Zmiana galaz 2
